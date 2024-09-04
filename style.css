@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primeiraSessao {
+  border: solid rgb(255, 0, 212) 3px;
+}
+.primeiraSessao div {
+  width: 200px;
+  background-color: orangered;
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */

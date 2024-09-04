@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// pixel px- absoluto 
+// sempre o mesmo tamanho
+
+.primeiraSessao{
+    border: solid rgb(255, 0, 212) 3px;
+    //borda: 3 valores
+    //solide: tipo da borda, cor e espessura.
+    // alinhamento, organiza os estilos das tags de acordo com a sua primeira organizacao hereditaria
+     div{
+        width: 200px;
+        background-color: orangered;
+        height: 200px;
+     }
+}
